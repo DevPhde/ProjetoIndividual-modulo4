@@ -51,5 +51,12 @@ curso -> (int - PK), nome_curso(varchar)
 
 </details>&nbsp;
 
+<details><summary><strong>Join em todas as tabelas</strong></summary>
+  
+![join all tables](https://user-images.githubusercontent.com/113299561/223327063-3c676d83-fc3c-4ab1-a96d-f8cd99d8124d.png)
+
+
+</details>&nbsp;
+
 ## :dart: Status do projeto
 Projeto finalizado.
